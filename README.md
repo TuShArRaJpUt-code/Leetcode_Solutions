@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
