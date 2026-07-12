@@ -25,12 +25,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [1331-rank-transform-of-an-array](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
