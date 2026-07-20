@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0980-unique-paths-iii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
