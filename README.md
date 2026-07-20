@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0980-unique-paths-iii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 ## Stack
 |  |
 | ------- |
@@ -76,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0980-unique-paths-iii](https://github.com/TuShArRaJpUt-code/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
